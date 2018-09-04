@@ -1,0 +1,65 @@
+@import url(reset.css);
+/*.one {
+	height: 500px;
+	background-color: yellow;
+	position: relative;
+
+}
+.r {
+	position: fixed;
+	top: 20px;
+	right: 20px;
+
+	height:300px;
+	width: 300px;
+	background-color: black;
+
+}
+.two{
+	height: 500px;
+	background-color: orange;
+}
+.three {
+	height: 500px;
+	background-color: green;
+}
+.four {
+	height: 500px;
+	background-color: blue;*/
+}
+
+.two {
+	background-image: url(../../тест/1jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a {
+	display: block;
+	width: 200px;
+	height: 50px;
+	background-color: lightblue;
+	color: white;
+	text-align: center;
+	text-transform: uppercase;
+	box-sizing: border-box;
+	padding: 15px;
+	font-size: 20px;
+}
