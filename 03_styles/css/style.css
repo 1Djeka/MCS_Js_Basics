@@ -1,0 +1,6 @@
+@import url(reset.css);
+.colored {
+	background-color: lightgrey;
+	width: 300px;
+	height: 300px;
+}
